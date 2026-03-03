@@ -1,0 +1,5 @@
+{
+  "name": "Service Fee Calculator",
+  "description": "A tool for recruitment teams to calculate service fee percentages based on salary, warranty, and headcount.",
+  "requestFramePermissions": []
+}
